@@ -1,0 +1,19 @@
+@import url('https://fonts.cdnfonts.com/css/century-gothic-paneuropean');
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	user-select: none;
+	cursor: default;
+	font-family: 'Century Gothic Paneuropean', sans-serif;
+	font-weight: 500;
+}
+body {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	gap: 20px;
+	padding-top: 250px;
+}
